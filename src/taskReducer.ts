@@ -1,4 +1,4 @@
-// Muhammet Furkan Yılmaz - [2024502108]
+// Muhammet Furkan Yılmaz - 2024502108
 import type { Filter } from './filter'
 
 export type Status = 'todo' | 'in-progress' | 'done'

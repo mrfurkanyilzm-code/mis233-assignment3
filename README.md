@@ -1,7 +1,7 @@
 # MIS 233 — Assignment 3: Task Manager with a Reducer
 
 - **Name:** Muhammet Furkan Yılmaz
-- **Student Number:** [2024502108]
+- **Student Number:** 2024502108
 
 ---
 
